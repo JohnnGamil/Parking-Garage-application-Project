@@ -1,4 +1,4 @@
-# Parking-Garage-application-Project
+# Parking Garage Application Project
 Our Project for the Introduction to Software Engineering course taken during fall 2022 semester.</br>
 We Applied the <b>Object-Oriented</b> concepts (Abstraction, polymorphism, 
 interfaces, packaging, …) and utilized <b>Boundary, control and entity</b> concepts as well as <b>SOLID 
@@ -27,3 +27,42 @@ rate of 5 EGP.</br>
 • Calculate the total income as well as the total number of vehicles that used the parking 
 garage at any given point in time.</br>
 • Display the available parking slots</br></br>
+
+<h2>Screenshots:</h2>
+
+<h5>Garage Initialization:</h5>
+
+![garage initialization](https://user-images.githubusercontent.com/78499278/207464948-4f6b5efb-6b57-4a48-9621-236f92264a44.jpg)
+
+<hr>
+
+<h5>Parking a Vehicle:</h5>
+
+![park in](https://user-images.githubusercontent.com/78499278/207464960-de64144c-d3a0-4253-a0fe-dde13a4b99c5.jpg)
+
+<hr>
+
+<h5>Displaying the Available Slots:</h5>
+
+![display available slots](https://user-images.githubusercontent.com/78499278/207464991-60591c0c-38dd-4b6a-8ebb-fd40e6df5bb2.jpg)
+
+<hr>
+
+<h5>Removing a Vehicle</h5>
+
+![park out](https://user-images.githubusercontent.com/78499278/207464982-89e650b7-574b-4519-9cf1-f19fa0393d4e.jpg)
+
+<hr>
+
+<h5>Displaying the Current Number of Vehicles</h5>
+
+![current number of vehicles](https://user-images.githubusercontent.com/78499278/207465028-72a62b65-af5b-44e5-bff2-4e9f1f53f7e1.jpg)
+
+<hr>
+
+<h5>Displaying Total Income:</h5>
+
+![4 total income](https://user-images.githubusercontent.com/78499278/207465004-e0668500-5562-4ce2-9ead-f70047f85019.jpg)
+
+<hr>
+
